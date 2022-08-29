@@ -86,4 +86,6 @@
          user switches -->
     <bool name="config_cleanupUnusedFingerprints">false</bool>
 
+    <!-- Wether to handle audio direction changes between major call states -->
+    <bool name="config_handleAudioDirectionChangesBetweenCallStateChanges">false</bool>
 </resources>

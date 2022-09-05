@@ -470,3 +470,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libaacwrapper \
     libnl
+    
+TARGET_SUPPORTS_QUICK_TAP := true

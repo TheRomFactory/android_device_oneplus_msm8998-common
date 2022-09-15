@@ -25,4 +25,7 @@
     <!-- FPSInfoService FPS node file path -->
     <string name="config_fpsInfoSysNode" translatable="false">/sys/devices/virtual/graphics/fb0/measured_fps</string>
 
+    <!-- Whether alertslider is on the left edge of the device -->
+    <integer name="config_alertSliderOnLeft">true</integer>
+
 </resources>
